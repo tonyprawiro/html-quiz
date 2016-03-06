@@ -1,0 +1,21 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+td {
+	font-size: x-large;
+}
+
+#question, #choices, #answer, .question, .choices, .answer {
+	margin-bottom: 10px;
+}
+
+.qset {
+  border: 1px solid black;
+  padding: 10px;
+  margin-bottom: 15px;
+  box-shadow: 6px 6px 3px #888888;
+}

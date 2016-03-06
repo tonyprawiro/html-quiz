@@ -1,0 +1,68 @@
+QUESTION 1
+Which of the following is one of the major approaches to psychology?
+
+A. psychoanalysis 
+B. structuralism 
+C. psychiatry 
+D. New Age Movement
+
+Correct Answer: A
+The textbook describes six major approaches to psychology on pages WIP5-WIP10: behavioral, psychoanalytic, humanistic, cognitive, neurobiological, and sociocultural. This was also covered in the class lecture on Modern perspectives in psychology. Structuralism is an older approach that died out completely. I did not cover it in class; it is described on pages WIP4-WIP5. Psychiatry is a specific branch of medicine, not a major approach to psychology. The New Age Movement, which I did not cover, is described on page WIP12 as a pseudopsychology.
+
+QUESTION 2
+Sensation, perception, and memory are of particular interest to which group of contemporary psychologists?
+
+A. psychoanalysts 
+B. behaviorists 
+C. humanistic psychologists 
+D. cognitive psychologists 
+
+Correct Answer: D
+Areas of specialization in psychology are described on pages WIP15-WIP17 of the textbook. Sensation, perception and memory are described in the textbook as topics that involve pure (that is, basic) experimental research (page WIP16).  I talked about these areas in our class on Psychology's careers and areas of specialization. I was more specific than the textbook  in my lecture, describing these three areas as part of the field of cognition.
+
+QUESTION 3
+Using operational definitions answers which question?
+
+A. who 
+B. why 
+C. what 
+D. how 
+
+Correct Answer: C
+To answer this question correctly, you have to understand two concepts: (1) the What-How-Why questions posed by scientists (Who is not one of the questions, so answer (a) can be eliminated); and  
+(2) what we mean by an operational definition. An operational definitions (Lecture on the Experimental method is psychology) include objective descriptions of the independent variable (What happened to the subjects) and dependent variable (What the subjects did) in an experiment, so (c) "what"  is the correct answers. The question of how things came about concerns explaining what was observed by identifying the immediate causes. Identifying immediate causes is the goal of experiments. Why questions concern a deeper level of explanation through theories of how the distant past has affected the present. The What, How, and Why of psychology were covered in the first lecture of the course.
+
+QUESTION 4
+Why did John B. Watson reject the structuralist study of mental events?
+
+A. He believed that structuralism relied too heavily on scientific methods. 
+B. He rejected the concept that psychologists should study observable behavior. 
+C. He believed that scientists should focus on what is objectively observable. 
+D. He actually embraced both structuralism and functionalism. 
+
+Correct Answer: C
+Both the textbook (page WIP5-6) and Lecture 2 (History of basic and applied psychology), emphasize that Watson thought he could make psychology more scientific by restricting itself to what was objectively observable by several persons, that is, observable stimuli in the environment and the observable behaviors that are triggered by the stimuli. Comprehending an issue means understanding the main points. For this question, you would hopefully not be distracted by the technical terms "structuralism" and "functionalism" (which I did not even talk about in class) but target right in on Watson's main point--that in his opinion a scientific psychology must restrict itself to observables.
+
+QUESTION 5
+Explaining a student's poor performance on an exam to the unfair  difficulty level of the questions refers to what kind of cause?
+
+A. immediate, external cause 
+B. immediate, internal cause 
+C. developmental cause 
+D. necessary and sufficient cause 
+E. weak cause 
+
+Correct Answer: A
+I talked about different types of causes of behavior on the first day of class. There really is such a concept as a necessary and sufficient cause, but I didn't talk about this in class and it doesn't apply to this example. Any cause outside of a person is an external cause, and the difficulty level of the test is a property of the test. Possible internal causes for poor performance might have been lack of motivation to study, low intelligence, or sleepiness. Developmental causes refer to history, which is not mentioned here. I never mentioned weak causes.
+
+QUESTION 6
+A researcher shows erotic films to one group of subjects and violent films to another group of subjects. The researcher then assesses the cooperativeness of each group of subjects. The independent variable in this study is
+
+A. the level of cooperativeness. 
+B. the type of film seen. 
+C. the level of sexual arousal in subjects. 
+D. the level of aggressiveness in subjects.
+
+Correct Answer: B
+The independent variable describes how the groups of subjects in an experiment are treated differently by the experimenter (see textbook, page MET-16 or your notes for the lecture on the Experimental method in psychology). In this example, the difference is in the type of film they were shown. The films might result in differences in (c) sexual arousal or (d) aggressiveness, but these were not even studied by the researcher. Option (a) cooperativeness represents the dependent variable in the study.
+
